@@ -1,0 +1,3 @@
+# madeofparts.fyi
+## or whatever domain i buy later on...
+Personal website for myself.
